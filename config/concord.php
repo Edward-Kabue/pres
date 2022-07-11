@@ -39,6 +39,7 @@ return [
         \Webkul\User\Providers\ModuleServiceProvider::class,
         \Webkul\Velocity\Providers\ModuleServiceProvider::class,
         \Webkul\Sitemap\Providers\ModuleServiceProvider::class,
+        \ACME\HelloWorld\Providers\ModuleServiceProvider::class,
 
     ],
 ];

@@ -1,1 +1,1 @@
-Pharmacy shop
+pharmacy
